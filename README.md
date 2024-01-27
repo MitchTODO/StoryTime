@@ -1,7 +1,14 @@
+
+<div>
+  <img src="readmeAssets/Simulator Screenshot - iPhone 15 - 2024-01-26 at 18.24.23.png" alt="drawing" width="200"/>
+  <img src="readmeAssets/Simulator Screenshot - iPhone 15 - 2024-01-26 at 18.24.27.png" alt="drawing" width="200"/>
+     <img src="readmeAssets/Simulator Screenshot - iPhone 15 - 2024-01-26 at 18.24.53.png" alt="drawing" width="200"/>
+
+</div>
+
 #  StoryTime
 
 [Video Walk-through](https://youtu.be/nOAIxss4wBw)
-
 
 ## Description 
 
@@ -13,7 +20,14 @@ With StoryTime, storytelling becomes a collaborative and dynamic endeavor, foste
 
 ## Design 
 
-The App is design to be a quick and simple process to genereate stories. Users are able to save or edit stories as they seem fit. Views are minumual insuring the best experanice for users. Limiting the about of optionals for stories details prevent them from 
+The app is crafted to provide a swift and uncomplicated story generation process. Users have the flexibility to save or edit their stories as they see fit. With minimalistic views, the app ensures the best experience for users.
+
+<div>
+    <img src="readmeAssets/Simulator Screenshot - iPhone 15 - 2024-01-26 at 18.24.30.png" alt="drawing" width="200"/>
+   <img src="readmeAssets/Simulator Screenshot - iPhone 15 - 2024-01-26 at 18.24.48.png" alt="drawing" width="200"/>
+   <img src="readmeAssets/Simulator Screenshot - iPhone 15 - 2024-01-26 at 18.24.50.png" alt="drawing" width="200"/>
+</div>
+
 
 
 
