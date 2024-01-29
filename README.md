@@ -10,6 +10,12 @@
 
 [Video Walk-through](https://youtu.be/nOAIxss4wBw)
 
+## TestFlight 
+
+[StoryTime Invite Link](https://testflight.apple.com/join/pNc4Ee67)
+
+[More on Apple's Beta Testing](https://developer.apple.com/testflight/)
+
 ## Description 
 
 StoryTime is an innovative iOS app designed to facilitate the creation of custom children's stories based on a set of narratives. The app guides users through the process of crafting a delightful and engaging story, providing prompts and selectable options to ensure the narrative is relatable to the user.
